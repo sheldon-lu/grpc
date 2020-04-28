@@ -4,7 +4,7 @@
 package mock_helloworld
 
 import (
-	helloworld "grpc-demo/helloworld"
+	helloworld "grpc/grpc-demo/helloworld"
 
 	gomock "github.com/golang/mock/gomock"
 	context "golang.org/x/net/context"
